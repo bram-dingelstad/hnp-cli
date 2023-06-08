@@ -1,0 +1,17 @@
+✨ Example task @name #bug !urgent #engine-side ~1d
+===
+longer description with another mention @another_persons_name
+
+[] Here's a substask, wauwie
+[] Here's another one
+
+You can write some more
+
+[] and then do another subtask
+
+---
+📝 Another issue that will fail because u didnt specify a category ~2d
+===
+
+oh well, what can you do
+---
